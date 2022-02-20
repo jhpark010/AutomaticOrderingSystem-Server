@@ -22,6 +22,20 @@
 
 **산출물**
 
-분석 : https://drive.google.com/drive/folders/1IR5XGCoumBKpFub6tGHU-hNWGRXwkmbN?usp=sharing
+분석
+- 프로젝트 일정 : https://docs.google.com/uc?export=download&id=1GCOYAMp28eukndV25OZC6iwm75w8qAgB
+- 요구사항 정의서 : https://docs.google.com/uc?export=download&id=16hkHqzfX2LOMi0QpEFTCQBizF1u0Lc37
+- 요구사항 분석서 : https://docs.google.com/uc?export=download&id=1QEpsT28EPMcOoKyzo9ZP675L7TE6OpCT
 
-설계 : https://drive.google.com/drive/folders/1cRzaTly9FK1oDfhLLYUdH3BKr29VI2Rr?usp=sharing
+설계
+
+- 시스템 구성도 : https://docs.google.com/uc?export=download&id=1C9pwUN45_DY-OF7UQxSWLCIJ-JTZXxGE
+- 엔티티 정의서 : https://docs.google.com/uc?export=download&id=1YQ6JD2RJwVPPfebCdRqHeP3kweNCN6js
+- 사전 정의서 : https://docs.google.com/uc?export=download&id=1-_URwF3aaEoxzUoj7dqBMTdQM8ywXpIz
+- 테이블 정의서 : https://docs.google.com/uc?export=download&id=11zqABkHRoJ4uV94ubPe7bMxH4OZPyxQL
+- 유즈케이스 모델 정의서 : https://docs.google.com/uc?export=download&id=1buYv_3ez7MABajO60gtifRyV5rZM9XOs
+- 인터페이스 정의서 : https://docs.google.com/uc?export=download&id=1fEvd89G-q6a0StTojcgNOVfMuSybA6Vw
+- 프로세스 정의서 : https://docs.google.com/uc?export=download&id=1kQL9NGRKV3LLopAs1nt4vjdQ7WkeyoYW
+- 프로세스 설계서 : https://docs.google.com/uc?export=download&id=1zv8q92SE4exg9axBr5bX00YEow3evui6
+- 화면 정의서 : https://docs.google.com/uc?export=download&id=1LrpodTBFq5dZLkAW918bniM8YAmxLBpC
+- 프로그램 목록 : https://docs.google.com/uc?export=download&id=15vIzU-V3Pr6QvmIPmTgPu7NnmDokEudr
