@@ -19,3 +19,7 @@
 개발 인원	: 박주현 (외 2 인 프로젝트)
 
 담당 업무	: 분석, 설계, 구현 100 % 참여
+
+**산출물**
+분석 : https://drive.google.com/drive/folders/1IR5XGCoumBKpFub6tGHU-hNWGRXwkmbN?usp=sharing
+설계 : https://drive.google.com/drive/folders/1cRzaTly9FK1oDfhLLYUdH3BKr29VI2Rr?usp=sharing
