@@ -1,4 +1,4 @@
-## [2020.10~2020.12] 무게 측정에 따른 자동 발주 시스템 (Spring + MyBatis 프레임워크 기반)
+### [2020.10~2020.12] 무게 측정에 따른 자동 발주 시스템 (Spring + MyBatis 프레임워크 기반)
 
 서버 : https://github.com/jhpark010/AutomaticOrderingSystem-Server
 
