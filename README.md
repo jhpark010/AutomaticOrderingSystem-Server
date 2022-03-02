@@ -1,8 +1,11 @@
+# **[2020.10~2020.12] 무게 측정에 따른 자동 발주 시스템 (Spring + MyBatis 프레임워크 기반) **
+
 서버 : https://github.com/jhpark010/AutomaticOrderingSystem-Server
 
 에이전트 : https://github.com/jhpark010/AutomaticOrderingSystem-Agent
 
-[2020.10~2020.12] 무게 측정에 따른 자동 발주 시스템 (Spring + MyBatis 프레임워크 기반) 
+
+개발 기간 : 2020.10 ~ 2020.12 (약 3개월)
 
 프로젝트 명 : 무게 측정에 따른 자동 발주 시스템(AOS;Automatic Ordering System)
 
